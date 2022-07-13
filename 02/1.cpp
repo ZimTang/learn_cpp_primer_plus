@@ -1,6 +1,7 @@
-#include<iostream>
+#include <iostream>
 
-int main(void) {
+int main(void)
+{
   using namespace std;
   return 0;
 }

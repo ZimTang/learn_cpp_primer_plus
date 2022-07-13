@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main(void) {
+int main(void)
+{
   using namespace std;
 
   int carrots;

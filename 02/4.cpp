@@ -5,7 +5,8 @@
   函数的使用
 */
 
-int main() {
+int main()
+{
   using namespace std;
 
   double area;
